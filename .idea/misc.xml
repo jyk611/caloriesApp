@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/cal_record_add.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/cal_record_del.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/cal_record_edit.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/cal_record_more.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/cal_record_shape.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/cal_record_warng.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/calories_add.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/calories_calc_box1.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/calories_calc_box2.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/fatsweetbox.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/fatsweetpyramid.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/food_plan.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/foodplan_box.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/foodplan_quote.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/fruitvegebox.xml" value="0.27685185185185185" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/fruitvegepyramid.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/ic_delete.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/ic_edit.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/meatproteinbox.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/meatproteinpyramid.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/milkdiarybox.xml" value="0.27685185185185185" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/milkdiarypyramid.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/nutrition_box.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/ricegrainbox.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/ricegrainpyramid.xml" value="0.290625" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/drawable/triangle.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_calories_calculator.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_calories_calculator2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_calories_summary.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_calories_tracker.xml" value="0.4" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fats_and_sweets.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_food_pyramid.xml" value="0.6" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fruit_and_vegetable1.xml" value="0.6" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fruit_and_vegetable2.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fruits_and_vegetable1.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fruits_and_vegetable2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_meat_and_protein.xml" value="0.2" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_milk_and_diary.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_rice_and_grains.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/add_total_calories_intake.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_calories_summary.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/list_total_calories_intake.xml" value="0.4" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/milkdiarybox.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/menu/show_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
