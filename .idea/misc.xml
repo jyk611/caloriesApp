@@ -50,6 +50,15 @@
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/list_total_calories_intake.xml" value="0.4" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/milkdiarybox.xml" value="0.2558876811594203" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/menu/show_menu.xml" value="0.27447916666666666" />
+        <entry key="app/src/main/res/layout/activity_calories_summary.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_calories_tracker.xml" value="0.23771929824561402" />
+        <entry key="app/src/main/res/layout/activity_food_pyramid.xml" value="0.23771929824561402" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12777777777777777" />
+        <entry key="app/src/main/res/layout/add_total_calories_intake.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_calories_tracker.xml" value="0.23771929824561402" />
+        <entry key="app/src/main/res/layout/fragment_food_pyramid.xml" value="0.23771929824561402" />
+        <entry key="app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/list_total_calories_intake.xml" value="0.1" />
       </map>
     </option>
   </component>

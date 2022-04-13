@@ -1,8 +1,27 @@
 package com.taruc.assignment.model
 
-data class TotalCalIntakeList (
-    var foodName:String,
-    var foodType:String,
-    var foodCal:String
-    )
+import androidx.room.ColumnInfo
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+import java.util.*
+
+@Entity
+data class TotalCalIntakeList(
+  @PrimaryKey(autoGenerate = true)
+  val id: Int = 0,
+
+  @ColumnInfo(name = "foodName")
+  var foodName: String,
+
+  @ColumnInfo(name = "foodType")
+  var foodType: String,
+
+  @ColumnInfo(name = "foodCal")
+  var foodCal: String,
+
+  @ColumnInfo(name = "createdAt")
+  val createdAt: Date,
+
+
+)
 
