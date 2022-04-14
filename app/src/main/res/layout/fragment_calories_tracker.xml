@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".CaloriesTracker">
+    tools:context=".ui.CaloriesTrackerFragment">
 
     <ImageView
         android:id="@+id/back_foodplan_button"
@@ -67,7 +67,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/calendar" />
 
-
     <TextView
         android:id="@+id/total_cal_intake_title"
         android:layout_width="wrap_content"
@@ -98,7 +97,7 @@
         android:id="@+id/total_cal_intake_title2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="12dp"
+        android:layout_marginStart="24dp"
         android:layout_marginTop="260dp"
         android:text="@string/total_cal_intake_title2"
         android:textColor="#000000"
@@ -112,7 +111,6 @@
         android:layout_height="319dp"
         android:layout_marginTop="296dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.8"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

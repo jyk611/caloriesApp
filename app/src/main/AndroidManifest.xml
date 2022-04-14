@@ -11,10 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Assignment">
         <activity
-            android:name=".CaloriesSummary"
-            android:exported="false" />
-        <activity android:name=".CaloriesCalculator" />
-        <activity android:name=".CaloriesTracker" />
+            android:name=".CaloriesTracker" />
         <activity android:name=".FoodPyramid" />
         <activity android:name=".RiceAndGrains" />
         <activity android:name=".MeatAndProtein" />

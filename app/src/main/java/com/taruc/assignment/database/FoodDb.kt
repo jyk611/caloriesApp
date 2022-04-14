@@ -4,6 +4,7 @@ import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 import com.taruc.assignment.model.TotalCalIntakeList
+import java.util.*
 
 
 @Database(
@@ -17,3 +18,16 @@ import com.taruc.assignment.model.TotalCalIntakeList
 abstract class FoodDb: RoomDatabase() {
   abstract fun foodDao(): FoodDao
 }
+
+//class DateTypeConverter{
+//  @TypeConverters
+//  fun fromTimestamp(value: Long?): Date? {
+//    return if (value == null) null else Date(value)
+//  }
+//
+//  @TypeConverters
+//  fun dateToTimestamp(date: Date?):Long?{
+//    return date?.time
+//  }
+//
+//}

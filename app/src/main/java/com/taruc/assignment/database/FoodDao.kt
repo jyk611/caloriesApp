@@ -22,4 +22,11 @@ interface FoodDao {
 
   @Query("SELECT foodCal FROM totalcalintakelist")
   fun getCalories(): LiveData<List<String>>
+
+  @Query("SELECT foodType, foodCal FROM totalcalintakelist")
+  fun getCaloriesPieChart():LiveData<List<String>>
+
+  //get date
+  //@Query("SELECT ")
+  //fun getCalTrackDate(currentDate: Date)
 }

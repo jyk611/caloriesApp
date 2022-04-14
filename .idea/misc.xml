@@ -34,10 +34,10 @@
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_calories_calculator.xml" value="0.1" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_calories_calculator2.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_calories_summary.xml" value="0.1" />
-        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_calories_tracker.xml" value="0.4" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_calories_tracker.xml" value="0.2" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fats_and_sweets.xml" value="0.1" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_food_pyramid.xml" value="0.6" />
-        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fruit_and_vegetable1.xml" value="0.6" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fruit_and_vegetable1.xml" value="0.48760330578512395" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fruit_and_vegetable2.xml" value="0.264" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fruits_and_vegetable1.xml" value="0.1" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_fruits_and_vegetable2.xml" value="0.27447916666666666" />
@@ -47,7 +47,18 @@
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/activity_rice_and_grains.xml" value="0.264" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/add_total_calories_intake.xml" value="0.264" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_calories_summary.xml" value="0.254981884057971" />
-        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/list_total_calories_intake.xml" value="0.4" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_calories_tracker.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_fats_and_sweets.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_food_calories_summary.xml" value="0.4" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_food_pyramid.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_fruit_and_vegetable1.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_fruit_and_vegetable2.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_meat_and_protein.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_milk_and_diary.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_rice_and_grains.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/fragment_total_food_calories.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/list_total_calories_intake.xml" value="0.2" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/layout/milkdiarybox.xml" value="0.2558876811594203" />
         <entry key="..\:/Users/User/Desktop/Mobile Application/Assignment/app/src/main/res/menu/show_menu.xml" value="0.27447916666666666" />
         <entry key="app/src/main/res/layout/activity_calories_summary.xml" value="0.1" />

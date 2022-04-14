@@ -22,6 +22,9 @@ data class TotalCalIntakeList(
   @ColumnInfo(name = "createdAt")
   val createdAt: Date,
 
+//  @ColumnInfo(name = "total_cal_date")
+//  var date: Date
+
 
 )
 

@@ -9,8 +9,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.EditText
 import android.widget.PopupMenu
+import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.viewModels
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.taruc.assignment.R
 import com.taruc.assignment.databinding.AddTotalCaloriesIntakeBinding
@@ -21,6 +23,8 @@ import com.taruc.assignment.view.TotalCalIntakeAdapter
 import com.taruc.assignment.viewmodel.TotalCalIntakeViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import timber.log.Timber
+import java.text.SimpleDateFormat
+import java.util.*
 
 @AndroidEntryPoint
 class CaloriesTrackerFragment : Fragment(R.layout.fragment_calories_tracker) {
@@ -32,6 +36,16 @@ class CaloriesTrackerFragment : Fragment(R.layout.fragment_calories_tracker) {
 
   override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
     binding = FragmentCaloriesTrackerBinding.bind(view)
+
+    binding.backFoodplanButton.setOnClickListener {
+      val action = CaloriesTrackerFragmentDirections.actionCaloriesTrackerFragmentToMainFragment()
+      findNavController().navigate(action)
+    }
+
+    var textView: TextView = binding.caloriestrackerDate
+    val simpleDateFormat = SimpleDateFormat("dd MMMM yyyy")
+    val currentDateAndTime: String = simpleDateFormat.format(Date())
+    textView.text = currentDateAndTime
 
     totalCalIntakeAdapter = TotalCalIntakeAdapter(foodList) { food, v ->
       val popupMenus = PopupMenu(requireContext(), v)

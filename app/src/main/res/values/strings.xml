@@ -133,6 +133,9 @@
     <string name="fMenus">fMenu</string>
     <string name="total_cal_intake_result">%s</string>
     <string name="total_cal_intake_title2">kcal</string>
+
+    <string name="back_summary_button">Summary</string>
+    <string name="back_summary_title">Summary</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 

@@ -96,20 +96,8 @@ class CaloriesTracker : AppCompatActivity() {
     addDialog.create()
     addDialog.show()
 
-    //foodList.add(Integer.valueOf(foodCal.text.toString()))
 
   }
-
-//    private fun getTotalIntakeCal(foodList: TotalCalIntakeList){
-//        val caloriesSum = 0
-//        var getCalories = binding.totalCalIntakeResult
-//        for(foodCal in foodList){
-//            caloriesSum += getCalories
-//        }
-//
-//
-//
-//    }
 
 
 }
