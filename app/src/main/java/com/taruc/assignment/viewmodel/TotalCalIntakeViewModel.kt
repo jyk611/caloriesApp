@@ -18,6 +18,8 @@ class TotalCalIntakeViewModel @Inject constructor(
   val allFood = foodDao.getAllFood()
   val allCalories = foodDao.getCalories()
 
+  fun allLiveCaloriesData (foodType: String, foodCal: String) = foodDao.getCaloriesPieChart(foodType, foodCal)
+
   fun addFood(foodName: String, foodType: String, foodCal: String) {
     viewModelScope.launch {
       foodDao.insert(

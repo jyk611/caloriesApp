@@ -30,8 +30,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <com.git
-        android:id="@+id/pieChart"
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/calories_summary_piechart"
         android:layout_width="match_parent"
         android:layout_height="300dp"
         android:layout_marginTop="212dp"

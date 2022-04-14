@@ -24,7 +24,7 @@ interface FoodDao {
   fun getCalories(): LiveData<List<String>>
 
   @Query("SELECT foodType, foodCal FROM totalcalintakelist")
-  fun getCaloriesPieChart():LiveData<List<String>>
+  fun getCaloriesPieChart(foodType: String, foodCal: String):List<String>
 
   //get date
   //@Query("SELECT ")
